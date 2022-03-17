@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alger/Lowenski Johan</h1>
 <h3 align="center">A passionate frontend developer from France and new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algerjohan&label=Profile%20views&color=0e75b6&style=flat" alt="algerjohan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algerjohan" alt="algerjohan" /></a> </p>
 
 - 🔭 I’m currently working on [Les petits plats](https://algerjohan.github.io/Les-Petits-Plats/)
 
