@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm JOHAN</h1>
 
-I'm Johan from France, livingin Paris,I really enjoy learning languages and frameworks like JS and React.
+I'm Johan from France, living in Paris,i really enjoy learning languages and frameworks like JS and React.
 <br/>
 <br/>
 Actually:
