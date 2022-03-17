@@ -35,7 +35,7 @@
 <br/>
 <br/>
 <br/>
-### 🔥 Recent GitHub Activity
+🔥 Recent GitHub Activity
 <br/>
 <br/>
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
