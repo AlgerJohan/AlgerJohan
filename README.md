@@ -3,6 +3,8 @@
 <h3 align="center">A passionate frontend developer from France and new technologies</h3>
 
 I'm Johan from France, livingin Paris,I really enjoy learning languages and frameworks like JS and React.
+<br/>
+<br/>
 Actually:
 
 - 🔭 I’m currently working on [Les petits plats](https://algerjohan.github.io/Les-Petits-Plats/)
