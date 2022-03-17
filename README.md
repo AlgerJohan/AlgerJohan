@@ -37,9 +37,7 @@ Actually:
 <br/>
 <br/>
 <br/>
-<br/>
 🔥 Recent GitHub Activity
-<br/>
 <br/>
 <br/>
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
