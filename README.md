@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm JOHAN</h1>
 <h3 align="center">A passionate frontend developer from France and new technologies</h3>
 
-
+Actually:
 
 - 🔭 I’m currently working on [Les petits plats](https://algerjohan.github.io/Les-Petits-Plats/)
 
