@@ -4,7 +4,7 @@
 I come from Martinique (France)🌴, living in Paris and i really enjoy learning languages and frameworks like JS and React.
 <br/>
 <br/>
-Actually:
+<h3>Actually:</h3>
 
 - 🔭 I’m currently working on [Les petits plats](https://algerjohan.github.io/Les-Petits-Plats/)
 
