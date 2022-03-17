@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm JOHAN</h1>
 
-I come from Martinique (France), living in Paris and i really enjoy learning languages and frameworks like JS and React.
+I come from Martinique (France)🌴, living in Paris and i really enjoy learning languages and frameworks like JS and React.
 <br/>
 <br/>
 Actually:
