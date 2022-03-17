@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact" alt="algerjohan" /></p>
 
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
-  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=Les-Petits-Plats" />
+  <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=Les-Petits-Plats" />
 </a>
 
 <a href="https://algerjohan.github.io/OhMyFood/">
