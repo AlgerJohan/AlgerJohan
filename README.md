@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm JOHAN</h1>
-<h3 align="center">A passionate frontend developer from France and new technologies</h3>
 
 I'm Johan from France, livingin Paris,I really enjoy learning languages and frameworks like JS and React.
 <br/>
