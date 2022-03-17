@@ -54,4 +54,4 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <a href="https://twitter.com/alger922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alger922" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/johan-alger-lowenski-5a326315b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johan-alger-lowenski-5a326315b/" height="30" width="40" /></a>
 </p>
-
+<img align="right" alt="Coder GIF" height=150 width=250 src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
