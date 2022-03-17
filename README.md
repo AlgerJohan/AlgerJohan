@@ -34,6 +34,6 @@
 <a href="https://algerjohan.github.io/OhMyFood/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=OhMyFood" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=convoychat" />
+<a href="https://algerjohan.github.io/Les-Petits-Plats/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=Les-Petits-Plats" />
 </a>
