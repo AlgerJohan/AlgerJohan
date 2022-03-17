@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact" alt="algerjohan" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=algerjohan&" alt="algerjohan" /></p>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&theme=algolia)
