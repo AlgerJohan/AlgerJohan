@@ -1,8 +1,8 @@
-### Johan ALger/Lowenski
-I'm Johan from France, livingin Paris,I really enjoy learning languages and frameworks like JS and React.
+
 <h1 align="center">Hi 👋, I'm JOHAN</h1>
 <h3 align="center">A passionate frontend developer from France and new technologies</h3>
-
+### Johan ALger/Lowenski
+I'm Johan from France, livingin Paris,I really enjoy learning languages and frameworks like JS and React.
 Actually:
 
 - 🔭 I’m currently working on [Les petits plats](https://algerjohan.github.io/Les-Petits-Plats/)
