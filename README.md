@@ -35,6 +35,7 @@
 <br/>
 <br/>
 <br/>
+### 🔥 Recent GitHub Activity
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats" />
 </a>
