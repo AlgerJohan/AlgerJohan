@@ -27,9 +27,6 @@
 
 
 
-<a href="https://algerjohan.github.io/OhMyFood/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=OhMyFood" />
-</a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&theme=algolia)
@@ -37,4 +34,8 @@
 
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=Les-Petits-Plats" />
+</a>
+
+<a href="https://algerjohan.github.io/OhMyFood/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&repo=OhMyFood" />
 </a>
