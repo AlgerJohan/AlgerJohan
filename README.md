@@ -25,13 +25,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact" alt="algerjohan" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algerjohan&" alt="algerjohan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=algerjohan&" alt="algerjohan" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&theme=algolia)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
