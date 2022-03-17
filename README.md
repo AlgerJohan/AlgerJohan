@@ -34,10 +34,8 @@
 <br/>
 <br/>
 <br/>
-
-
-
-
+<br/>
+<br/>
 
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats" />
