@@ -25,7 +25,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgerJohan&show_icons=true&theme=algolia)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact" alt="algerjohan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjoha&show_icons=true&theme=algolian&show_icons=true&locale=en&layout=compact" alt="algerjohan" /></p>
 
 <a href="https://algerjohan.github.io/Les-Petits-Plats/">
   <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats" />
