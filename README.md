@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algerjohan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="algerjohan" /></p>
 
-<a href="https://algerjohan.github.io/Les-Petits-Plats/">
+<p><a href="https://algerjohan.github.io/Les-Petits-Plats/">
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats" />
-</a>
+</a></p>
 
