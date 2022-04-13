@@ -42,7 +42,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AlgerJohan&show_icons=true&theme=algolia&repo=Les-Petits-Plats" />
 </a>
-<a href="https://app.daily.dev/jojobanJOHAN922"><img src="https://api.daily.dev/devcards/2c19bd34be9a49a291d0e1d6ca8d60ac.png?r=tj8" width="400" alt="JOHAN ALGER's Dev Card"/></a>
+
 <br/>
 <br/>
 <br/>
